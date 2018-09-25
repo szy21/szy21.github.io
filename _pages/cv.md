@@ -20,9 +20,9 @@ Employment
 ======
 * 09/2018 - Present: Postdoctoral Scholar, California Institute of Technology
   
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+#Publications
+#======
+#  <ul>{% for post in site.publications %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
   
