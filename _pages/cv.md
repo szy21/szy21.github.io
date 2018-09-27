@@ -7,9 +7,9 @@ redirect_from:
   - /resume
 ---
 
-[Updated 04/2018](http://szy21.github.io/files/cv_zs.pdf)
-
 {% include base_path %}
+
+<u>[Updated 09/2018](http://szy21.github.io/files/cv_zs.pdf)</u>
 
 Education
 ======
