@@ -25,7 +25,7 @@ Zhao, M. and coauthors, 2018: The GFDL global atmosphere and land model AM4.0/LM
 
 ## 2017
 
-**Shen, Z.**, Y. Ming, L. W. Horowitz, V. Ramaswamy, and M. Lin, 2017: On the seasonality of Arctic black carbon. Journal of Climate, 30 (12), 4429–4441, [<u>doi:10.1175/JCLI-D-16-0580.1</u>](https://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-16-0580.1).<br/>
+**Shen, Z.**, Y. Ming, L. W. Horowitz, V. Ramaswamy, and M. Lin, 2017: On the seasonality of Arctic black carbon. Journal of Climate, 30 (12), 4429-4441, [<u>doi:10.1175/JCLI-D-16-0580.1</u>](https://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-16-0580.1).<br/>
 [<u>BAMS papers of note</u>](https://journals.ametsoc.org/doi/pdf/10.1175/BAMS_986_1087-1102_Nowcast)
 
 ## 2015
