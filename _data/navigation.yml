@@ -7,8 +7,8 @@ main:
   - title: "Bio"
     url: /cv/
   
-  - title: "Research"
-    url: /research/
+  #- title: "Research"
+  #  url: /research/
   
   - title: "Publications"
     url: /publications/
