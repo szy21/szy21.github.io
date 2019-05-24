@@ -13,7 +13,7 @@ author_profile: true
 
 ## 2019
 
-Li, Y., Y. Deng, S. Yang, H. Zhang, Y. Ming, and **Z. Shen**, 2018: Multi-scale temporal-spatial variability of the East Asian summer monsoon frontal system: observation versus its representation in the GFDL HiRAM. Clim Dyn (2019) 52: 6787. [<u>https://doi.org/10.1007/s00382-018-4546-z</u>](https://link.springer.com/article/10.1007/s00382-018-4546-z).
+Li, Y., Y. Deng, S. Yang, H. Zhang, Y. Ming, and **Z. Shen**, 2019: Multi-scale temporal-spatial variability of the East Asian summer monsoon frontal system: observation versus its representation in the GFDL HiRAM. Clim Dyn (2019) 52: 6787. [<u>https://doi.org/10.1007/s00382-018-4546-z</u>](https://link.springer.com/article/10.1007/s00382-018-4546-z).
 
 ## 2018
 
