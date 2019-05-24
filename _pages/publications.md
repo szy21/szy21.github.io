@@ -11,9 +11,11 @@ author_profile: true
 
 {% include base_path %}
 
-## 2018
+## 2019
 
-Li, Y., Y. Deng, S. Yang, H. Zhang, Y. Ming, and **Z. Shen**, 2018: Multi-scale temporal-spatial variability of the East Asian summer monsoon frontal system: observation versus its representation in the GFDL HiRAM. Clim Dyn (2018). [<u>doi:https://doi.org/10.1007/s00382-018-4546-z</u>](https://link.springer.com/article/10.1007%2Fs00382-018-4546-z).
+Li, Y., Y. Deng, S. Yang, H. Zhang, Y. Ming, and **Z. Shen**, 2018: Multi-scale temporal-spatial variability of the East Asian summer monsoon frontal system: observation versus its representation in the GFDL HiRAM. Clim Dyn (2019) 52: 6787. [<u>https://doi.org/10.1007/s00382-018-4546-z</u>](https://link.springer.com/article/10.1007/s00382-018-4546-z).
+
+## 2018
 
 Persad, G. G., Y. Ming, **Z. Shen**, and V. Ramaswamy, 2018: Spatially similar surface energy flux perturbations due to greenhouse gases and aerosols. Nature Communications, 9, 3247 (2018), [<u>doi:10.1038/s41467-018-05735-y</u>](https://www.nature.com/articles/s41467-018-05735-y).
 
