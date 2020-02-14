@@ -11,6 +11,9 @@
 \renewcommand\labelitemi{}
 \usepackage{scrextend}
 \usepackage{lipsum}% for demo only!
+\usepackage{titlesec}
+\titlespacing*{\subsubsection}
+{0pt}{2ex}{1ex}
 \renewcommand\normalsize{%
    \@setfontsize\normalsize{10.5pt}{12pt}
    \abovedisplayskip 10\p@ \@plus2\p@ \@minus5\p@
@@ -77,8 +80,8 @@
 \bottommargin 3cm
 \secnumdepth 2
 \tocdepth 2
-\paragraph_separation indent
-\paragraph_indentation default
+\paragraph_separation skip
+\defskip smallskip
 \is_math_indent 0
 \math_numbering_side default
 \quotes_style english
@@ -107,33 +110,16 @@ Zhaoyi Shen
 \begin_layout Standard
 \paragraph_spacing onehalf
 \align center
-Environmental Science and Engineering, California Institute of Technology
+Environmental Science and Engineering, Caltech
 \begin_inset Newline newline
 \end_inset
 
 1200 E California Blvd.
- MC C1-221 Pasadena, CA 91125
-\begin_inset Newline newline
-\end_inset
-
-Phone: 626-395-2039
+ MC C1-221, Pasadena, CA 91125
 \begin_inset Newline newline
 \end_inset
 
 E-mail: zhaoyi@caltech.edu
-\end_layout
-
-\begin_layout Subsubsection*
-
-\series bold
-\size large
-\bar under
-Research Interests
-\end_layout
-
-\begin_layout Standard
-Climate dynamics, clouds and convection, climate sensitivity, aerosol-climate
- interactions, long-range transport of air pollution, atmospheric modeling
 \end_layout
 
 \begin_layout Subsubsection*
@@ -153,40 +139,103 @@ Princeton University
 \end_layout
 
 \begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{addmargin}[1.5em]{0em} 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
 Ph.D., Atmospheric and Oceanic Sciences, August 2018
-\end_layout
-
-\begin_layout Standard
-Advisor: Dr.
- Yi Ming
-\end_layout
-
-\begin_layout Standard
-Committee members:
-\series bold
- 
-\series default
-Drs.
- Isaac M.
- Held, Larry W.
- Horowitz, and V.
- Ramaswamy
-\series bold
-
 \begin_inset Newline newline
 \end_inset
 
+Advisor: Dr.
+ Yi Ming
+\begin_inset Newline newline
+\end_inset
+
+Thesis: 
+\begin_inset Quotes eld
+\end_inset
+
+The Influence of Aerosols on Large-scale Circulation and Regional Climate
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{addmargin}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\series bold
 Peking University
 \series default
 , Beijing, China
 \end_layout
 
 \begin_layout Standard
-B.S., Environmental Science, July 2013
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{addmargin}[1.5em]{0em} 
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-B.A., Economics, July 2013
+\noindent
+B.S., Environmental Science (second B.A., Economics), July 2013
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{addmargin}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsubsection*
@@ -442,10 +491,6 @@ nisms.
 Frontiers of Environmental Science & Engineering
 \shape default
 , 9 (5), 912-918, doi: 10.1007/s11783-015-0789-7.
-\begin_inset Newline newline
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -468,7 +513,7 @@ end{addmargin}
 \noindent
 
 \series bold
-Submitted/in preparation
+Submitted
 \end_layout
 
 \begin_layout Standard
@@ -500,9 +545,9 @@ Shen, Z.
 Y.
  Ming, and I.
  M.
- Held, 2019: Constraining aerosol forcing from land surface air temperature
- records.
- In preparation.
+ Held, 2020: Detecting the disparate impacts of anthropogenic aerosols on
+ regional land temperature.
+ Submitted.
 \end_layout
 
 \begin_layout Standard
@@ -514,10 +559,10 @@ Shen, Z.
 , K.
  Pressel, Z.
  Tan, and T.
- Schneider, 2019: Statistically steady state large-eddy simulations forced
+ Schneider, 2020: Statistically steady state large-eddy simulations forced
  by an idealized general circulation model: 1.
  Forcing framework and simulation characteristics.
- Submitted to 
+ In revision for 
 \shape italic
 Journal of Advances in Modeling Earth Systems
 \shape default
@@ -545,114 +590,54 @@ end{addmargin}
 \series bold
 \size large
 \bar under
-Honors and Awards
-\end_layout
-
-\begin_layout Standard
-\noindent
-NASA JPL Center for Climate Sciences Summer School participant 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-hfill
-\end_layout
-
-\end_inset
-
- 2016
-\end_layout
-
-\begin_layout Standard
-\noindent
-King Peh Kwoh Fellowship, Princeton University 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-hfill
-\end_layout
-
-\end_inset
-
- 2013-2014
-\end_layout
-
-\begin_layout Standard
-\noindent
-Outstanding graduate of Beijing 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-hfill
-\end_layout
-
-\end_inset
-
- 2013
-\end_layout
-
-\begin_layout Standard
-\noindent
-Outstanding thesis for Undergraduate Research & Training Program, Peking
- University 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-hfill
-\end_layout
-
-\end_inset
-
- 2013
-\end_layout
-
-\begin_layout Standard
-\noindent
-Zeng Xianzi Scholarship for Excellent Students, Peking University 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-hfill
-\end_layout
-
-\end_inset
-
- 2009-2012
-\end_layout
-
-\begin_layout Subsubsection*
-
-\series bold
-\size large
-\bar under
 Professional Service
 \end_layout
 
 \begin_layout Standard
+\noindent
+
+\series bold
+Journal Reviewer
+\series default
+\shape italic
+ 
+\shape default
+for
+\shape italic
+ Natural Climate Change
+\shape default
+,
+\shape italic
+ Physical Review Letters, Geophysical Research Letters
+\shape default
+, 
+\shape italic
+Atmospheric Chemistry and Physics
+\shape default
+,
+\shape italic
+ Earth's future
+\shape default
+,
+\shape italic
+ Journal of Climate, Journal of Geophysical Research
+\shape default
+,
+\shape italic
+ Journal of Atmospheric Science, Climate Dynamics,
+\shape default
+ and 
+\shape italic
+Atmospheric Research
+\end_layout
+
+\begin_layout Standard
+\noindent
 
 \series bold
 Session co-chair
 \series default
-, Tri-MIP-athlon-2 
+, The second joint AerChemMIP / RFMIP / PDRMIP Workshop 
 \begin_inset ERT
 status open
 
@@ -712,42 +697,54 @@ hfill
  2015-2016
 \end_layout
 
-\begin_layout Standard
-\noindent
+\begin_layout Subsubsection*
 
 \series bold
-Reviewer
-\series default
-\shape italic
- 
-\shape default
-for
-\shape italic
- Natural Climate Change
-\shape default
-,
-\shape italic
- Geophysical Research Letters
-\shape default
-, 
-\shape italic
-Atmospheric Chemistry and Physics
-\shape default
-,
-\shape italic
- Journal of Geophysical Research
-\shape default
-,
-\shape italic
- Earth's future
-\shape default
-,
-\shape italic
- Climate Dynamics,
-\shape default
- and 
-\shape italic
-Atmospheric Research
+\size large
+\bar under
+Invited Talks
+\end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset Quotes eld
+\end_inset
+
+Constraining aerosol forcing from the land surface temperature record
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Caltech Yuk Lunch Seminar, Pasadena, CA.
+ (08/2019)
+\end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset Quotes eld
+\end_inset
+
+The influence of aerosols on large-scale circulation and regional climate
+\begin_inset Quotes erd
+\end_inset
+
+.
+ UCLA AOS 271 Seminar Series, Los Angeles, CA.
+ (11/2018)
+\end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset Quotes eld
+\end_inset
+
+The influence of aerosols on large-scale circulation and regional climate
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Lamont-Doherty Earth Observatory OCP Seminar Series, Palisades, NY.
+ (09/2018)
 \end_layout
 
 \begin_layout Subsubsection*
@@ -755,7 +752,284 @@ Atmospheric Research
 \series bold
 \size large
 \bar under
-Teaching Experience
+Conference Presentations
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Steady state large-eddy simulations forced by an idealized general circulation
+ model
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Poster.
+ 
+\shape italic
+AGU 2019 Fall Meeting
+\shape default
+, San Francisco, CA.
+ (12/2019)
+\end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset Quotes eld
+\end_inset
+
+Nonlinearity in the climate response to greenhouse gas and aerosol forcing
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Oral.
+ 
+\shape italic
+99th AMS Annual Meeting
+\shape default
+, Phoenix, AZ.
+ (01/2019)
+\end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset Quotes eld
+\end_inset
+
+Constraining aerosol forcing from the land surface temperature record
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Oral.
+ 
+\shape italic
+98th AMS Annual Meeting
+\shape default
+, Austin, TX.
+ (01/2018)
+\end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset Quotes eld
+\end_inset
+
+Constraining aerosol forcing from the land surface temperature record
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Oral.
+ 
+\shape italic
+AGU 2017 Fall Meeting
+\shape default
+, New Orleans, LA.
+ (12/2017)
+\end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset Quotes eld
+\end_inset
+
+Influences of aerosol absorption on the extratropical circulation
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Poster.
+ 
+\shape italic
+Gordon Research Conference on Radiation and Climate
+\shape default
+, Lewiston, ME.
+ (07/2017)
+\end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset Quotes eld
+\end_inset
+
+The influence of aerosol absorption on the extratropical circulation
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Poster.
+ 
+\shape italic
+AGU 2016 Fall Meeting
+\shape default
+, San Francisco, CA.
+ (12/2016)
+\end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset Quotes eld
+\end_inset
+
+Factors controlling seasonal variations in Arctic black carbon
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Poster.
+ 
+\shape italic
+AGU 2015 Fall Meeting
+\shape default
+, San Francisco, CA.
+ (12/2015)
+\end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset Quotes eld
+\end_inset
+
+Factors controlling seasonal variations in Arctic black carbon
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Poster.
+ 
+\shape italic
+Gordon Research Conference on Radiation and Climate
+\shape default
+, Lewiston, ME.
+ (07/2015)
+\end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset Quotes eld
+\end_inset
+
+Analysis of transpacific transport of black carbon during HIPPO-3: implications
+ for black carbon aging
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Poster.
+ 
+\shape italic
+AGU 2013 Fall Meeting
+\shape default
+, San Francisco, CA.
+ (12/2013)
+\end_layout
+
+\begin_layout Subsubsection*
+
+\series bold
+\size large
+\bar under
+Awards and Fellowships
+\end_layout
+
+\begin_layout Standard
+Held Symposium Travel Scholarship 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+hfill
+\end_layout
+
+\end_inset
+
+ 2018
+\end_layout
+
+\begin_layout Standard
+\noindent
+NASA JPL Center for Climate Sciences Summer School 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+hfill
+\end_layout
+
+\end_inset
+
+ 2016
+\end_layout
+
+\begin_layout Standard
+\noindent
+King Peh Kwoh Fellowship, Princeton University 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+hfill
+\end_layout
+
+\end_inset
+
+ 2013-2014
+\end_layout
+
+\begin_layout Standard
+\noindent
+Outstanding Graduates of Beijing’s Higher Institutions 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+hfill
+\end_layout
+
+\end_inset
+
+ 2013
+\end_layout
+
+\begin_layout Standard
+\noindent
+Zeng Xianzi Scholarship for Excellent Students, Peking University 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+hfill
+\end_layout
+
+\end_inset
+
+ 2009-2012
+\end_layout
+
+\begin_layout Subsubsection*
+
+\series bold
+\size large
+\bar under
+Teaching and Mentorship
 \end_layout
 
 \begin_layout Standard
@@ -807,10 +1081,9 @@ Climate: Past, Present, and Future
 \end_inset
 
 
-\end_layout
+\begin_inset Newline newline
+\end_inset
 
-\begin_layout Standard
-\noindent
 Instructor: Dr.
  Daniel M.
  Sigman
@@ -841,215 +1114,18 @@ Community Outreach
 \end_layout
 
 \begin_layout Standard
+Junior Watson Program.
+ Lab Visit Host.
+ California Institute of Technology, Pasadena, CA.
+ (04/2019)
+\end_layout
+
+\begin_layout Standard
+\noindent
 Monmouth Junction Elementary School 12th Annual Science Fair.
  Visiting Scientist.
  Brooks Crossing Elementary School, Monmouth Junction, NJ.
  (02/2018)
-\end_layout
-
-\begin_layout Subsubsection*
-
-\series bold
-\size large
-\bar under
-Selected Presentations
-\end_layout
-
-\begin_layout Standard
-\begin_inset Quotes eld
-\end_inset
-
-Nonlinearity in the climate response to greenhouse gas and aerosol forcing
-\begin_inset Quotes erd
-\end_inset
-
-.
- Oral.
- 
-\shape italic
-99th AMS Annual Meeting
-\shape default
-, Phoenix, AZ (01/2019)
-\end_layout
-
-\begin_layout Standard
-\noindent
-\begin_inset Quotes eld
-\end_inset
-
-The influence of aerosols on large-scale circulation and regional climate
-\begin_inset Quotes erd
-\end_inset
-
-.
- Oral.
- UCLA AOS 271 Seminar Series, Los Angeles, CA (11/2018)
-\end_layout
-
-\begin_layout Standard
-\noindent
-\begin_inset Quotes eld
-\end_inset
-
-The influence of aerosols on large-scale circulation and regional climate
-\begin_inset Quotes erd
-\end_inset
-
-.
- Oral.
- Lamont-Doherty Earth Observatory OCP Seminar Series, Palisades, NY (09/2018)
-\end_layout
-
-\begin_layout Standard
-\noindent
-\begin_inset Quotes eld
-\end_inset
-
-Constraining aerosol forcing from the land surface temperature record
-\begin_inset Quotes erd
-\end_inset
-
-.
- Oral.
- 
-\shape italic
-98th AMS Annual Meeting
-\shape default
-, Austin, TX (01/2018)
-\end_layout
-
-\begin_layout Standard
-\noindent
-\begin_inset Quotes eld
-\end_inset
-
-Constraining aerosol forcing from the land surface temperature record
-\begin_inset Quotes erd
-\end_inset
-
-.
- Oral.
- 
-\shape italic
-AGU 2017 Fall Meeting
-\shape default
-, New Orleans, LA (12/2017)
-\end_layout
-
-\begin_layout Standard
-\noindent
-\begin_inset Quotes eld
-\end_inset
-
-The influence of aerosol absorption on the extratropical circulation
-\begin_inset Quotes erd
-\end_inset
-
-.
- Poster.
- 
-\shape italic
-Gordon Research Conference on Radiation and Climate
-\shape default
-, Lewiston, ME.
- (07/2017)
-\end_layout
-
-\begin_layout Standard
-\noindent
-\begin_inset Quotes eld
-\end_inset
-
-The influence of aerosol absorption on the extratropical circulation
-\begin_inset Quotes erd
-\end_inset
-
-.
- Poster.
- 
-\shape italic
-AGU 2016 Fall Meeting
-\shape default
-, San Francisco, CA.
- (12/2016)
-\end_layout
-
-\begin_layout Standard
-\noindent
-\begin_inset Quotes eld
-\end_inset
-
-Factors controlling the seasonal cycle of Arctic black carbon
-\begin_inset Quotes erd
-\end_inset
-
-.
- Poster.
- 
-\shape italic
-AGU 2015 Fall Meeting
-\shape default
-, San Francisco, CA.
- (12/2015)
-\end_layout
-
-\begin_layout Standard
-\noindent
-\begin_inset Quotes eld
-\end_inset
-
-Factors controlling the seasonal cycle of Arctic black carbon
-\begin_inset Quotes erd
-\end_inset
-
-.
- Poster.
- 
-\shape italic
-Gordon Research Conference on Radiation and Climate
-\shape default
-, Lewiston, ME.
- (07/2015)
-\end_layout
-
-\begin_layout Standard
-\noindent
-\begin_inset Quotes eld
-\end_inset
-
-Analysis of transpacific transport of black carbon during HIPPO-3: implications
- for black carbon aging
-\begin_inset Quotes erd
-\end_inset
-
-.
- Oral.
- 
-\shape italic
-Princeton AOS Student/Postdoc Seminar Series
-\shape default
-, Princeton, NJ.
- (07/2015)
-\end_layout
-
-\begin_layout Standard
-\noindent
-\begin_inset Quotes eld
-\end_inset
-
-Analysis of transpacific transport of black carbon during HIPPO-3: implications
- for black carbon aging
-\begin_inset Quotes erd
-\end_inset
-
-.
- Poster.
- 
-\shape italic
-AGU 2013 Fall Meeting
-\shape default
-, San Francisco, CA.
- (12/2013)
 \end_layout
 
 \end_body

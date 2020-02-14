@@ -11,6 +11,10 @@ author_profile: true
 
 {% include base_path %}
 
+## 2020
+
+**Shen, Z.**, K. G. Pressel, Z. Tan, and T. Schneider, 2020: Statistically steady state large-eddy simulations forced by an idealized GCM: 1. Forcing framework and simulation characteristics. Journal of Advances in Modeling Earth Systems, 12, e2019MS001814. [<u>https://doi.org/10.1029/2019MS001814</u>](https://doi.org/10.1029/2019MS001814).
+
 ## 2019
 
 Li, Y., Y. Deng, S. Yang, H. Zhang, Y. Ming, and **Z. Shen**, 2019: Multi-scale temporal-spatial variability of the East Asian summer monsoon frontal system: observation versus its representation in the GFDL HiRAM. Clim Dyn (2019) 52: 6787. [<u>https://doi.org/10.1007/s00382-018-4546-z</u>](https://link.springer.com/article/10.1007/s00382-018-4546-z).
