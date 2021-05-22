@@ -11,9 +11,15 @@ author_profile: true
 
 {% include base_path %}
 
+## 2021
+
+Ming, Y., N. G. Loeb, P. Lin, **Z. Shen**,  V. Naik, C. E. Singer, R. X. Ward, F. Paulot, Z. Zhang, N. Bellouin, L. W. Horowitz, P. A. Ginoux, V. Ramaswamy, 2021: Assessing the influence of COVID-19 on the shortwave radiative fluxes  over the east asian marginal seas. Geophysical Research Letters, 48, e2020GL091699. [<u>https://doi.org/10.1029/2020GL091699</u>](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020GL091699). 
+
 ## 2020
 
 **Shen, Z.**, K. G. Pressel, Z. Tan, and T. Schneider, 2020: Statistically steady state large-eddy simulations forced by an idealized GCM: 1. Forcing framework and simulation characteristics. Journal of Advances in Modeling Earth Systems, 12, e2019MS001814. [<u>https://doi.org/10.1029/2019MS001814</u>](https://doi.org/10.1029/2019MS001814).
+
+**Shen, Z.**, Y. Ming, and I. M. Held, 2020: Using the fast impact of anthropogenic aerosols on regional land temperature to constrain aerosol forcing. Science Advances, 6 (32), eabb5297, [<u>doi: 10.1126/sciadv.abb5297</u>](https://advances.sciencemag.org/content/6/32/eabb5297).
 
 ## 2019
 
